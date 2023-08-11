@@ -29,3 +29,4 @@
 ![sharmachaitanya945's Stats](https://github-readme-stats-sharmachaitanya945.vercel.app//api?username=sharmachaitanya945&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
 ![sharmachaitanya945's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharmachaitanya945&theme=gruvbox&hide_border=false)
 ![sharmachaitanya945's Top Languages](https://github-readme-stats-sharmachaitanya945.vercel.app/api/top-langs/?username=sharmachaitanya945&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6aw1daoe6mnhndn10ss6wjqyv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=6aw1daoe6mnhndn10ss6wjqyv&redirect=true)
