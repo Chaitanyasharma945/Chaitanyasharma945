@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/chaitanyatweetx" target="blank"><img src="https://img.shields.io/twitter/follow/chaitanyatweetx?logo=twitter&style=for-the-badge" alt="chaitanyatweetx" /></a> </p>
 
-- 🌱 I’m currently learning **java script**
+- 🌱 I’m currently learning **Machine learning**
 
 - 📫 How to reach me **sharmachaitanya945@gmail.com**
 
