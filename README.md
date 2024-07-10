@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **MongoDB**
 
 - 📫 How to reach me **sharmachaitanya945@gmail.com**
+- Upwork profile (https://www.upwork.com/freelancers/~01f16adc9d2f50d399?viewMode=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
