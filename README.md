@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/chaitanyatweetx" target="blank"><img src="https://img.shields.io/twitter/follow/chaitanyatweetx?logo=twitter&style=for-the-badge" alt="chaitanyatweetx" /></a> </p>
 
-- 🌱 I’m currently learning **How to be a Kaggle Master**
+- 🌱 I’m currently learning **How to be a good coder**
 
 - 📫 How to reach me **sharmachaitanya945@gmail.com**
 - Upwork profile (https://www.upwork.com/freelancers/~01f16adc9d2f50d399?viewMode=1)
